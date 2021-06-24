@@ -3,7 +3,7 @@
 
 This is a tech blog deployed to jsclouddev.com.   
 
-Blog posts are normally part of a series (e.g mini-nuggets, newbie-asks, mastering-it).   
+Blog posts are normally part of a series (e.g mini-nuggets, newbie-asks, mastering-it, just-life).   
 
 ### FAQ
 
