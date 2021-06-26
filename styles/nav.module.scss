@@ -1,0 +1,21 @@
+.logoBox {
+  color: #fff;
+  padding: 1px 3px 5px 3px;
+  color: "#FFF";
+  font-weight: bolder;
+  border-width: 5px;
+  border-radius: 5px;
+  width: 36px;
+  height: 36px;
+}
+
+.navLink {
+  color: rgb(31, 31, 31, 0.95);
+  font-weight: bolder;
+  font-size: 1.1rem;
+}
+
+.navLink:hover {
+  text-underline-offset: 3px;
+  text-decoration: underline solid 4px #eaecef;
+}
